@@ -40,6 +40,11 @@ I’m constantly improving my problem-solving skills through competitive program
 <img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff"> 
 
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sadhvik_baba_patibandla?theme=dark&font=Karma&ext=contest)
+
+
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
